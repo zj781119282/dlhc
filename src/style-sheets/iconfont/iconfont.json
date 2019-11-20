@@ -1,0 +1,23 @@
+{
+  "id": "1518996",
+  "name": "dlhc",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2385174",
+      "name": "关闭音乐",
+      "font_class": "guanbiyinle1",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "3366490",
+      "name": "音乐",
+      "font_class": "yinle1",
+      "unicode": "e990",
+      "unicode_decimal": 59792
+    }
+  ]
+}
